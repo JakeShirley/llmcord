@@ -11,3 +11,8 @@
 !config-example.yaml
 !docker-compose.yaml
 !requirements.txt
+
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
+!.github/workflows/*.yaml
